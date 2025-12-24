@@ -8,28 +8,23 @@ interface TeamMember {
 const teamMembers: TeamMember[] = [
   {
     id: "1",
-    name: "Carlos Bocanegra",
-    role: "Founder & Chief Investment Officer",
-    bio: "Over 20 years of investment experience across global equity markets. Previously led investment teams at major institutional investors.",
+    name: "Giacomo Bocanegra",
+    role: "Partner & Portfolio Manager",
+    bio: "Giacomo Bocanegra is the Founder and Portfolio Manager of Bocanegra Asset Management LP (“BAM”). Prior to founding BAM in 2023, Mr. Bocanegra held equity research roles at Lucerne Capital Management and Wells Fargo. He holds a bachelor’s degree in Economics from Lawrence University.",
   },
   {
     id: "2",
-    name: "María del Valle",
+    name: "Gianluca Bocanegra",
     role: "Partner & Portfolio Manager",
-    bio: "Extensive experience in fundamental research and portfolio management. Specializes in technology and healthcare sectors.",
+    bio: "Gianluca Bocanegra is a Senior Analyst at Bocanegra Asset Management LP (“BAM”). Prior to joining the firm in 2024, Mr. Bocanegra worked as an investment analyst at Ingalls & Snyder and Nobska Capital Management. He holds a bachelor’s degree in Economics from Kenyon College.",
   },
   {
     id: "3",
-    name: "Andrés Mendoza",
-    role: "Partner & Head of Research",
-    bio: "Deep expertise in quantitative and fundamental analysis. Previously analyst at leading investment banks.",
+    name: "Salvador Bocanegra",
+    role: "Partner & Analyst",
+    bio: "Salvador Bocanegra is a Junior Analyst at Bocanegra Asset Management LP (“BAM”). He joined the firm in 2025. Mr. Bocanegra supports the firm with research on industrials, materials, and energy. He attended Wharton Global Youth Program at the University of Pennsylvania.",
   },
-  {
-    id: "4",
-    name: "Laura Espinoza",
-    role: "Chief Operating Officer",
-    bio: "Proven track record in operational excellence and risk management across financial services.",
-  },
+  ,
 ];
 
 const TeamSection = () => {
