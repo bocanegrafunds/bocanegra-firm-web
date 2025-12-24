@@ -15,7 +15,7 @@ const AboutSection = () => {
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-16">
             <div className="space-y-6">
               <p className="text-secondary-foreground leading-loose">
-                Bocanegra Asset Management was founded with a singular vision: to deliver 
+                Bocanegra Asset Management LP ("BAM") was founded with a singular vision: to deliver 
                 exceptional risk-adjusted returns through deep fundamental research and 
                 disciplined investment processes.
               </p>
@@ -27,7 +27,7 @@ const AboutSection = () => {
 
             <div className="space-y-6">
               <p className="text-secondary-foreground leading-loose">
-                Our approach is rooted in understanding businesses at their core—their 
+                Our approach is rooted in understanding businesses at their core -- their 
                 competitive advantages, management quality, and long-term value creation 
                 potential.
               </p>
